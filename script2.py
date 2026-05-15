@@ -2,7 +2,7 @@ import csv
 
 
 
-def charger_pokémons_csv(fichier1):
+def charger_pokemons_csv(fichier1):
     # dictionnaire qui contient la liste des pokemons et ses stats
     pokemons = {}
 
